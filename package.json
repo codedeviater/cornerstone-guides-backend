@@ -1,0 +1,11 @@
+{
+  "name": "cornerstone-guides-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5",
+    "pg": "^8.11.5",
+    "@clerk/backend": "^1.18.0"
+  }
+}
